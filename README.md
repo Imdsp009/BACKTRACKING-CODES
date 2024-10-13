@@ -1,1 +1,2 @@
 # Backtracking-Codes
+Backtracking is a problem-solving technique that incrementally builds a solution by making choices and exploring potential solutions. If a choice leads to a solution that violates a constraint or doesn't work, the algorithm "backtracks" to the previous step and tries a different option. It's often used in recursive algorithms for tasks like solving puzzles, navigating mazes, or generating permutations and combinations.
